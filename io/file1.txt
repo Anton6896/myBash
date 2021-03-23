@@ -1,0 +1,62 @@
+total 16
+drwxr-xr-x 2 anton anton 4096 Mar 19 07:23 .
+drwxr-xr-x 4 anton anton 4096 Mar 19 06:57 ..
+-rw-r--r-- 1 anton anton    0 Mar 19 07:23 file1.txt
+-rw-r--r-- 1 anton anton    0 Mar 19 07:23 file2.txt
+-rwxr-xr-x 1 anton anton  461 Mar 19 06:55 input_one.sh
+-rwxr-xr-x 1 anton anton   92 Mar 19 07:23 output.sh
+total 24
+drwxr-xr-x 2 anton anton 4096 Mar 19 07:23 .
+drwxr-xr-x 4 anton anton 4096 Mar 19 06:57 ..
+-rw-r--r-- 1 anton anton  315 Mar 19 07:23 file1.txt
+-rw-r--r-- 1 anton anton   51 Mar 19 07:24 file2.txt
+-rwxr-xr-x 1 anton anton  461 Mar 19 06:55 input_one.sh
+-rwxr-xr-x 1 anton anton  264 Mar 19 07:30 output.sh
+total 28
+drwxr-xr-x 2 anton anton 4096 Mar 19 07:30 .
+drwxr-xr-x 4 anton anton 4096 Mar 19 06:57 ..
+-rw-r--r-- 1 anton anton  630 Mar 19 07:30 file1.txt
+-rw-r--r-- 1 anton anton   51 Mar 19 07:24 file2.txt
+-rwxr-xr-x 1 anton anton  461 Mar 19 06:55 input_one.sh
+-rw-r--r-- 1 anton anton  371 Mar 19 07:30 myIoFile.txt
+-rwxr-xr-x 1 anton anton  264 Mar 19 07:31 output.sh
+total 28
+drwxr-xr-x 2 anton anton 4096 Mar 19 07:30 .
+drwxr-xr-x 4 anton anton 4096 Mar 19 06:57 ..
+-rw-r--r-- 1 anton anton 1001 Mar 19 07:31 file1.txt
+-rw-r--r-- 1 anton anton   51 Mar 19 07:24 file2.txt
+-rwxr-xr-x 1 anton anton  461 Mar 19 06:55 input_one.sh
+-rw-r--r-- 1 anton anton  422 Mar 19 07:31 myIoFile.txt
+-rwxr-xr-x 1 anton anton  292 Mar 19 07:32 output.sh
+total 28
+drwxr-xr-x 2 anton anton 4096 Mar 19 07:30 .
+drwxr-xr-x 4 anton anton 4096 Mar 19 06:57 ..
+-rw-r--r-- 1 anton anton 1372 Mar 19 07:32 file1.txt
+-rw-r--r-- 1 anton anton   51 Mar 19 07:24 file2.txt
+-rwxr-xr-x 1 anton anton  461 Mar 19 06:55 input_one.sh
+-rw-r--r-- 1 anton anton  422 Mar 19 07:31 myIoFile.txt
+-rwxr-xr-x 1 anton anton  291 Mar 19 07:32 output.sh
+total 28
+drwxr-xr-x 2 anton anton 4096 Mar 19 07:30 .
+drwxr-xr-x 4 anton anton 4096 Mar 19 06:57 ..
+-rw-r--r-- 1 anton anton 1743 Mar 19 07:32 file1.txt
+-rw-r--r-- 1 anton anton   51 Mar 19 07:24 file2.txt
+-rwxr-xr-x 1 anton anton  461 Mar 19 06:55 input_one.sh
+-rw-r--r-- 1 anton anton   51 Mar 19 07:32 myIoFile.txt
+-rwxr-xr-x 1 anton anton  291 Mar 19 07:33 output.sh
+total 28
+drwxr-xr-x 2 anton anton 4096 Mar 19 07:30 .
+drwxr-xr-x 4 anton anton 4096 Mar 19 06:57 ..
+-rw-r--r-- 1 anton anton 2114 Mar 19 07:33 file1.txt
+-rw-r--r-- 1 anton anton   51 Mar 19 07:24 file2.txt
+-rwxr-xr-x 1 anton anton  461 Mar 19 06:55 input_one.sh
+-rw-r--r-- 1 anton anton  371 Mar 19 07:33 myIoFile.txt
+-rwxr-xr-x 1 anton anton  291 Mar 19 07:33 output.sh
+total 28
+drwxr-xr-x 2 anton anton 4096 Mar 19 07:30 .
+drwxr-xr-x 4 anton anton 4096 Mar 19 06:57 ..
+-rw-r--r-- 1 anton anton 2485 Mar 19 07:33 file1.txt
+-rw-r--r-- 1 anton anton   51 Mar 19 07:24 file2.txt
+-rwxr-xr-x 1 anton anton  461 Mar 19 06:55 input_one.sh
+-rw-r--r-- 1 anton anton  371 Mar 19 07:33 myIoFile.txt
+-rwxr-xr-x 1 anton anton  292 Mar 19 07:33 output.sh

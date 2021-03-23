@@ -1,0 +1,8 @@
+total 24
+drwxr-xr-x 2 anton anton 4096 Mar 19 07:30 .
+drwxr-xr-x 4 anton anton 4096 Mar 19 06:57 ..
+-rw-r--r-- 1 anton anton 2485 Mar 19 07:33 file1.txt
+-rw-r--r-- 1 anton anton   51 Mar 19 07:24 file2.txt
+-rwxr-xr-x 1 anton anton  461 Mar 19 06:55 input_one.sh
+-rw-r--r-- 1 anton anton    0 Mar 19 07:33 myIoFile.txt
+-rwxr-xr-x 1 anton anton  291 Mar 19 07:33 output.sh
