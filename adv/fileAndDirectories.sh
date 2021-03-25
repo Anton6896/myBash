@@ -38,4 +38,5 @@ echo "add data to file you just create:"
 read txt_user
 echo -e "$txt_user" >> $f_name
 
+# show date at end of executuin 
 date
