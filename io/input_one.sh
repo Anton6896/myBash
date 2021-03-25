@@ -21,7 +21,7 @@ done
 
 
 : 'read from a file , $1 first args as filename 
-by using stdin (same as c library for reading)
+by using stdin (same as C library for reading)
 
 '
 while read line 

@@ -38,5 +38,20 @@ echo "add data to file you just create:"
 read txt_user
 echo -e "$txt_user" >> $f_name
 
+# read from file and print to console all lines 
+echo "will read all lines from this file : "
+
+if [ -f "$f_name" ]
+then
+    while IFS="" read -r line
+    do
+        echo "$line"
+        # with the direction can see that - read from the file 
+    done < "$f_name"
+else
+    echo "file $f_name dase note exists "
+fi
+
+
 # show date at end of executuin 
 date
