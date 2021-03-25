@@ -5,16 +5,16 @@
 # 1.54
 
 # create an directory 
-echo "enter directory name:"
-read dir
+# echo "enter directory name:"
+# read dir
 
-if [ -d "$dir" ]
-then
-    echo "$dir : exists"
-else
-    mkdir -p $dir
-    echo " -- $dir : created"
-fi
+# if [ -d "$dir" ]
+# then
+#     echo "$dir : exists"
+# else
+#     mkdir -p $dir
+#     echo " -- $dir : created"
+# fi
 
 # create an file 
 echo "enter file name of 'no' for exit "
@@ -52,6 +52,15 @@ else
     echo "file $f_name dase note exists "
 fi
 
+# delete file that you created ?
+echo "ould you like to delete the file that you created ? y/n"
+read answear
+
+if [ "$answear" == "y" ]
+then
+    rm "$f_name"
+    echo " -- file deleted --"
+fi
 
 # show date at end of executuin 
 date
